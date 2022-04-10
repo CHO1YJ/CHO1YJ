@@ -1,4 +1,4 @@
-### Hi there 👋
+### Welcome! 👋 Nice to meet you
 
 <!--
 **CHO1YJ/CHO1YJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
